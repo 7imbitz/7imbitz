@@ -17,10 +17,10 @@
 <code><img height="27" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php"></code>
 
 ### Tech : 
-<code><img height="27" src="https://www.kindpng.com/picc/m/206-2064380_burp-suite-icon-png-transparent-png.png" alt="burpsuite"></code>
+<code><img height="27" src="https://cdn.icon-icons.com/icons2/1735/PNG/512/burpsuite_113238.png" alt="burpsuite"></code>
 <code><img height="27" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode"></code>
 <code><img height="27" src="https://forum.obsidian.md/uploads/default/original/2X/1/1aeb25a4e02c56201c4052238e28c9b138a40dfb.png" alt="obsidian"></code>
-<code><img height="27" src="https://icons-for-free.com/iconfiles/png/512/editor+freeware+programming+software+sublime+text+icon-1320165729705252362.png" alt="sublime"></code>
+<code><img height="27" src="https://cdn.icon-icons.com/icons2/1381/PNG/512/sublimetext_94866.png" alt="sublime"></code>
 <code><img height="27" src="https://upload.wikimedia.org/wikipedia/commons/5/57/ITerm2_v3_icon.png?20170226183321" alt="iTerm"></code>
 
 
