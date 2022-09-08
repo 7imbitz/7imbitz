@@ -1,6 +1,7 @@
 ### Hi there 👋 , Salam y'all ✌🏻
 
-#### I'm Adib Farhan Sayuti, the regular guy
+#### I'm Adib Farhan Sayuti, the regular guy _*the pronunciation was Jimbitz_
+
 
 <p>
 <ul>
