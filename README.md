@@ -9,6 +9,8 @@
     <li> Awed with the Cyber Security things 😮</li>
     <li> I love games 🎮</li>
 </ul> 
+<script src="https://tryhackme.com/badge/163149"></script>
+<break> 
 
 ### Tech : 
 <code><img height="27" src="https://cdn.icon-icons.com/icons2/1735/PNG/512/burpsuite_113238.png" alt="burpsuite"></code>
