@@ -15,7 +15,7 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 
-#### I'm Adib Farhan Sayuti, the regular guy _*the pronunciation was Jimbitz_
+#### I'm Adib Farhan Sayuti, the regular guy _*the pronunciation for the username was Jimbitz_
 
 
 <p>
