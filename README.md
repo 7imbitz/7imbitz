@@ -1,6 +1,11 @@
 <div id="header" align="center">
   <img src="https://media2.giphy.com/media/gbmWwWm4sGMQvAYm1G/giphy.gif?cid=ecf05e47qjt7wweuot4xupyqfdnd2q6twd864n1thu9jkcn1&rid=giphy.gif&ct=g" width="100"/>
 </div>
+<div id="badges">
+  <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
+  <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+</div>
 
 ### Hi there 👋 , Salam y'all ✌🏻
 
