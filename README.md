@@ -29,7 +29,7 @@
 <code><img height="27" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php"></code>
 
 ### Github :
-[![trophy](https://github-profile-trophy.vercel.app/?username=7imbitz&rank=-Unknown&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=7imbitz&rank=B,C&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=7imbitz&theme=highcontrast&layout=compact&langs_count=10&hide=ruby,mustache,css,scss)](https://github.com/anuraghazra/github-readme-stats)
 
