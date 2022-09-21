@@ -1,3 +1,7 @@
+<div id="header" align="center">
+  <img src="https://media2.giphy.com/media/gjrYDwbjnK8x36xZIO/giphy.gif?cid=790b761188ceeddd1c3d7b07f910193c76d44970c340034c&rid=giphy.gif&ct=s" width="100"/>
+</div>
+
 ### Hi there 👋 , Salam y'all ✌🏻
 
 #### I'm Adib Farhan Sayuti, the regular guy _*the pronunciation was Jimbitz_
