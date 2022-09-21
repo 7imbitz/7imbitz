@@ -2,9 +2,15 @@
   <img src="https://media2.giphy.com/media/gbmWwWm4sGMQvAYm1G/giphy.gif?cid=ecf05e47qjt7wweuot4xupyqfdnd2q6twd864n1thu9jkcn1&rid=giphy.gif&ct=g" width="100"/>
 </div>
 <div id="badges" align="center">
-  <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
-  <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  <a href="">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">
+    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
+  </a>
+  <a href="https://twitter.com/7imbitz">
+    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  </a>
 </div>
 <div id="views" align="center">
   <img src="https://komarev.com/ghpvc/?username=7imbitz&style=flat-square&color=blue" alt=""/>
@@ -15,15 +21,15 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 
+### :man_technologist: About Me :
 #### I'm Adib Farhan Sayuti, the regular guy _*the pronunciation for the username was Jimbitz_
 
+- :briefcase: Currently working at local Cyber Security company in Malaysia
+- :raising_hand_man: Occasionally enthusiastic, easy to get distracted 😅
+- :computer: Awed with the Cyber Security things 😮
+- :video_game: Love playing games
 
 <p>
-<ul>
-    <li> Occasionally enthusiastic, easy to get distracted 😅</li>
-    <li> Awed with the Cyber Security things 😮</li>
-    <li> I love games 🎮</li>
-</ul> 
 
 ### Tech : 
 <code><img height="27" src="https://cdn.icon-icons.com/icons2/1735/PNG/512/burpsuite_113238.png" alt="burpsuite"></code>
