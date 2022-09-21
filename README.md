@@ -29,6 +29,7 @@
 <code><img height="27" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php"></code>
 
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=7imbitz)](https://github.com/ryo-ma/github-profile-trophy)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=7imbitz&theme=highcontrast&layout=compact&langs_count=10&hide=ruby,mustache,css,scss)](https://github.com/anuraghazra/github-readme-stats)
 
 [!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/7imbitz)
