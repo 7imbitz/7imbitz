@@ -56,10 +56,10 @@
   
 ### Github :
 
-[![Trophy](https://github-profile-trophy.vercel.app/?username=7imbitz&rank=B,C&theme=onedark)]
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=7imbitz&theme=dracula&layout=compact&langs_count=10&hide=ruby,mustache,css,scss)](https://github.com/anuraghazra/github-readme-stats)
 [![Stats](https://github-readme-stats.vercel.app/api?username=7imbitz&theme=dracula)]
 [![Streaks](https://github-readme-streak-stats.herokuapp.com/?user=7imbitz&theme=dracula)]
+[![Trophy](https://github-profile-trophy.vercel.app/?username=7imbitz&rank=B,C&theme=onedark)]
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=7imbitz&theme=dracula&layout=compact&langs_count=10&hide=ruby,mustache,css,scss)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
 
