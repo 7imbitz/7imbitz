@@ -53,6 +53,7 @@
 ### Github :
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=7imbitz&rank=B,C&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=7imbitz&theme=dracula&layout=compact&langs_count=10&hide=ruby,mustache,css,scss)](https://github.com/anuraghazra/github-readme-stats)
 
 ![Snake animation](https://github.com/7imbitz/7imbitz/blob/output/github-contribution-grid-snake.svg)
