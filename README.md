@@ -50,15 +50,20 @@
 <code><img height="27" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="golang"></code>
 <code><img height="27" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php"></code>
 
+</div>
+
+<div id="github" align="center">
+  
 ### Github :
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=7imbitz&rank=B,C&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
   
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=7imbitz&theme=dracula&layout=compact&langs_count=10&hide=ruby,mustache,css,scss)](https://github.com/anuraghazra/github-readme-stats)
 
+</div>
+
 ![Snake animation](https://github.com/7imbitz/7imbitz/blob/output/github-contribution-grid-snake.svg)
 
 [!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/7imbitz)
 
-</div>
 </p>
