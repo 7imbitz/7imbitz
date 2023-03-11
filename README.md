@@ -30,7 +30,7 @@
 - :video_game: Love playing games
 
 <p>
-
+<div id="content" align="center">
 ### Tech : 
 <code><img height="27" src="https://cdn.icon-icons.com/icons2/1735/PNG/512/burpsuite_113238.png" alt="burpsuite"></code>
 <code><img height="27" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode"></code>
@@ -58,4 +58,5 @@
 
 [!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/7imbitz)
 
+</div>
 </p>
