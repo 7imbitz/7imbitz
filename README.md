@@ -56,9 +56,9 @@
   
 ### Github :
 
-[![Trophy](https://github-profile-trophy.vercel.app/?username=7imbitz&rank=B,C&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+[![Trophy](https://github-profile-trophy.vercel.app/?username=7imbitz&rank=B,C&theme=onedark)]
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=7imbitz&theme=dracula&layout=compact&langs_count=10&hide=ruby,mustache,css,scss)](https://github.com/anuraghazra/github-readme-stats)
-[![Stats](https://github-readme-stats.vercel.app/api?username=7imbitz&theme=dracula)]
+[Stats](https://github-readme-stats.vercel.app/api?username=7imbitz&theme=dracula)
 
 </div>
 
