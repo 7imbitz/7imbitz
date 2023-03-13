@@ -56,9 +56,9 @@
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=7imbitz&theme=dracula)](https://git.io/streak-stats)
 
-[![Trophy](https://github-profile-trophy.vercel.app/?username=7imbitz&theme=dracula&rank=-?)](https://github.com/ryo-ma/github-profile-trophy)
-  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=7imbitz&theme=dracula&layout=compact&langs_count=10&hide=ruby,mustache,html,css,scss)](https://github.com/anuraghazra/github-readme-stats)
+  
+[![Trophy](https://github-profile-trophy.vercel.app/?username=7imbitz&theme=dracula&rank=-?)](https://github.com/ryo-ma/github-profile-trophy)
   
 ![Snake animation](https://github.com/7imbitz/7imbitz/blob/output/github-contribution-grid-snake.svg)
 
