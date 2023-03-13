@@ -60,7 +60,7 @@
 
 </div>
 
-<div id="trophy" align="right">
+<div id="trophy" align="left">
   
 [![Trophy](https://github-profile-trophy.vercel.app/?username=7imbitz&theme=dracula&rank=-?)](https://github.com/ryo-ma/github-profile-trophy)
 
