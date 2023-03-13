@@ -58,7 +58,7 @@
 
 [![Stats](https://github-readme-stats.vercel.app/api?username=7imbitz&theme=dracula)]
   
-[![Streaks](https://github-readme-streak-stats.herokuapp.com/?user=7imbitz&theme=dracula)]
+https://github-readme-streak-stats.herokuapp.com/?user=7imbitz&theme=dracula)
   
 [![Trophy](https://github-profile-trophy.vercel.app/?username=7imbitz&rank=B,C&theme=onedark)]
   
