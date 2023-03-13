@@ -54,9 +54,9 @@
 
 [![Stats](https://github-readme-stats.vercel.app/api?username=7imbitz&theme=dracula)]
   
-[![Streaks](https://github-readme-streak-stats.herokuapp.com/?user=7imbitz&theme=chartreuse-dark)]
+[![Streaks](https://github-readme-streak-stats.herokuapp.com/?user=7imbitz&theme=chartreuse-dark&hide_border=true&include_all_commits=true&count_private=true)]
   
-[![Trophy](https://github-profile-trophy.vercel.app/?username=7imbitz&rank=B,C&theme=onedark)]
+[![Trophy](https://github-profile-trophy.vercel.app/?username=7imbitz&theme=onedark)]
   
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=7imbitz&theme=dracula&layout=compact&langs_count=10&hide=ruby,mustache,html,css,scss)](https://github.com/anuraghazra/github-readme-stats)
 
