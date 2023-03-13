@@ -30,7 +30,7 @@
 - :video_game: Love playing games
 
 <p>
-<div id="content" align="center">
+<div id="content1" align="center">
   
 ### Tech : 
 <code><img height="27" src="https://cdn.icon-icons.com/icons2/1735/PNG/512/burpsuite_113238.png" alt="burpsuite"></code>
@@ -57,8 +57,16 @@
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=7imbitz&theme=dracula)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=7imbitz&theme=dracula&layout=compact&langs_count=10&hide=ruby,mustache,html,css,scss)](https://github.com/anuraghazra/github-readme-stats)
+
+</div>
+
+<div id="trophy" align="right">
   
 [![Trophy](https://github-profile-trophy.vercel.app/?username=7imbitz&theme=dracula&rank=-?)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
+  
+<div id="content2" align="center">
   
 ![Snake animation](https://github.com/7imbitz/7imbitz/blob/output/github-contribution-grid-snake.svg)
 
