@@ -60,9 +60,9 @@
 
 </div>
 
-<div id="trophy" align="left">
+<div id="trophy" align="center">
   
-[![Trophy](https://github-profile-trophy.vercel.app/?username=7imbitz&theme=dracula&rank=-?)](https://github.com/ryo-ma/github-profile-trophy)
+[![Trophy](https://github-profile-trophy.vercel.app/?username=7imbitz&theme=dracula)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
   
