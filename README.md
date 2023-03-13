@@ -50,6 +50,8 @@
 <code><img height="27" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="golang"></code>
 <code><img height="27" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php"></code>
 
+</div>
+</p>
 ### Github :
 
 [![Stats](https://github-readme-stats.vercel.app/api?username=7imbitz&theme=dracula)]
@@ -64,4 +66,3 @@
 
 [!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/7imbitz)
 
-</p>
