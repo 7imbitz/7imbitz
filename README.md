@@ -57,13 +57,12 @@
 ### Github :
 
 [![Stats](https://github-readme-stats.vercel.app/api?username=7imbitz&theme=dracula)]
-[![Streaks](https://github-readme-streak-stats.herokuapp.com/?user=7imbitz&theme=dracula)]
-[![Trophy](https://github-profile-trophy.vercel.app/?username=7imbitz&rank=B,C&theme=onedark)]
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=7imbitz&theme=dracula&layout=compact&langs_count=10&hide=ruby,mustache,css,scss)](https://github.com/anuraghazra/github-readme-stats)
   
-<img align="center" width="45%" src="https://github-readme-stats.vercel.app/api?username=7imbitz&theme=chartreuse-dark&show_icons=true&hide_border=true&include_all_commits=true&count_private=true" />
-<img align="center" width="45%" src="https://github-readme-streak-stats.herokuapp.com/?user=7imbitz&theme=chartreuse-dark&hide_border=true&include_all_commits=true&count_private=true" />
-<img align="center" width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=7imbitz&theme=highcontrast&layout=compact&langs_count=10&hide=ruby,mustache,html,css,scss" />
+[![Streaks](https://github-readme-streak-stats.herokuapp.com/?user=7imbitz&theme=dracula)]
+  
+[![Trophy](https://github-profile-trophy.vercel.app/?username=7imbitz&rank=B,C&theme=onedark)]
+  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=7imbitz&theme=dracula&layout=compact&langs_count=10&hide=ruby,mustache,html,css,scss)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
 
