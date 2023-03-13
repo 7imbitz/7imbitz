@@ -54,7 +54,7 @@
 
 [![Stats](https://github-readme-stats.vercel.app/api?username=7imbitz&theme=dracula)]
   
-<img align="center" width="45%" src="https://github-readme-streak-stats.herokuapp.com/?user=7imbitz&theme=dracula&hide_border=true&include_all_commits=true&count_private=true" />
+[![Streaks](https://github-readme-streak-stats.herokuapp.com/?user=7imbitz&theme=chartreuse-dark)]
   
 [![Trophy](https://github-profile-trophy.vercel.app/?username=7imbitz&rank=B,C&theme=onedark)]
   
