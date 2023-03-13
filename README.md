@@ -55,10 +55,9 @@
 
 ### Github :
 
-
 [![Stats](https://github-readme-stats.vercel.app/api?username=7imbitz&theme=dracula)]
   
-[![GitHub Streak](https://streak-stats.demolab.com/?user=7imbitz&theme=dracula)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=7imbitz&theme=dracula)]
   
 [![Trophy](https://github-profile-trophy.vercel.app/?username=7imbitz&theme=dracula&rank=-?)](https://github.com/ryo-ma/github-profile-trophy)
   
