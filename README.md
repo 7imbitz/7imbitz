@@ -50,21 +50,15 @@
 <code><img height="27" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="golang"></code>
 <code><img height="27" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php"></code>
 
-</div>
-
-<div id="github" align="center">
-  
 ### Github :
 
 [![Stats](https://github-readme-stats.vercel.app/api?username=7imbitz&theme=dracula)]
   
-https://github-readme-streak-stats.herokuapp.com/?user=7imbitz&theme=dracula)
+<img align="center" width="45%" src="https://github-readme-streak-stats.herokuapp.com/?user=7imbitz&theme=dracula&hide_border=true&include_all_commits=true&count_private=true" />
   
 [![Trophy](https://github-profile-trophy.vercel.app/?username=7imbitz&rank=B,C&theme=onedark)]
   
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=7imbitz&theme=dracula&layout=compact&langs_count=10&hide=ruby,mustache,html,css,scss)](https://github.com/anuraghazra/github-readme-stats)
-
-</div>
 
 ![Snake animation](https://github.com/7imbitz/7imbitz/blob/output/github-contribution-grid-snake.svg)
 
