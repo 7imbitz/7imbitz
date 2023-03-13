@@ -54,7 +54,7 @@
 
 [![Stats](https://github-readme-stats.vercel.app/api?username=7imbitz&theme=dracula)]
   
-[![Streaks](https://github-readme-streak-stats.herokuapp.com/?user=7imbitz&theme=chartreuse-dark&hide_border=true&include_all_commits=true&count_private=true)]((https://github-readme-streak-stats.herokuapp.com)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=7imbitz&theme=dracula)](https://git.io/streak-stats)
   
 [![Trophy](https://github-profile-trophy.vercel.app/?username=7imbitz&theme=onedark&rank=S,A,B,C)](https://github.com/ryo-ma/github-profile-trophy)
   
