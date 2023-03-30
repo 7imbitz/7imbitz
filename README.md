@@ -13,6 +13,7 @@
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>
+
 <div id="views" align="center">
   <img src="https://komarev.com/ghpvc/?username=7imbitz&style=flat-square&color=blue" alt=""/>
 </div>
@@ -29,9 +30,6 @@
 - :raising_hand_man: Occasionally enthusiastic, easy to get distracted 😅
 - :computer: Awed with the Cyber Security things 😮
 - :video_game: Love playing games
-
-<p>
-<div id="content1" align="center">
   
 ### Tech : 
 <code><img height="27" src="https://cdn.icon-icons.com/icons2/1735/PNG/512/burpsuite_113238.png" alt="burpsuite"></code>
@@ -54,24 +52,14 @@
 ### Github :
 
 [![Stats](https://github-readme-stats.vercel.app/api?username=7imbitz&theme=dracula)]
-
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=7imbitz&theme=dracula)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=7imbitz&theme=dracula&layout=compact&langs_count=10&hide=ruby,mustache,html,css,scss)](https://github.com/anuraghazra/github-readme-stats)
-
-</div>
-
 <div id="trophy" align="center">
-  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=7imbitz&theme=dracula&layout=compact&langs_count=10&hide=ruby,mustache,html,css,scss)](https://github.com/anuraghazra/github-readme-stats)
 [![Trophy](https://github-profile-trophy.vercel.app/?username=7imbitz&theme=dracula&column=-1&rank=-?)](https://github.com/ryo-ma/github-profile-trophy)
-
 </div>
   
 <div id="content2" align="center">
-  
 ![Snake animation](https://github.com/7imbitz/7imbitz/blob/output/github-contribution-grid-snake.svg)
-
 [!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/7imbitz)
-
 </div>
-</p>
