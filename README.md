@@ -34,6 +34,7 @@
 
 <p>
   <div id="content" align="center">
+    
 ### 💻 Technologies and Tools
   
 <p align="center"><image src="https://img.shields.io/badge/Golang-439DC2?style=for-the-badge&logo=Go&logoColor=white"> <image src="https://img.shields.io/badge/Bash-4D4D4D?style=for-the-badge&logo=windows%20terminal&logoColor=white"> <image src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=black"></p>
