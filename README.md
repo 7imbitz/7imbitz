@@ -1,3 +1,4 @@
+
 <div id="header" align="center">
   <img src="https://media2.giphy.com/media/gbmWwWm4sGMQvAYm1G/giphy.gif?cid=ecf05e47qjt7wweuot4xupyqfdnd2q6twd864n1thu9jkcn1&rid=giphy.gif&ct=g" width="100"/>
 </div>
@@ -56,8 +57,8 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=7imbitz&theme=dracula&layout=compact&langs_count=10&hide=ruby,mustache,html,css,scss)](https://github.com/anuraghazra/github-readme-stats)
 [![Trophy](https://github-profile-trophy.vercel.app/?username=7imbitz&theme=dracula&column=-1&rank=-?)](https://github.com/ryo-ma/github-profile-trophy)
 
-  
-<div id="content2" align="center">
-![Snake animation](https://github.com/7imbitz/7imbitz/blob/output/github-contribution-grid-snake.svg)
-[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/7imbitz)
-</div>
+<div id="snake" align="center">
+  ![Snake animation](https://github.com/7imbitz/7imbitz/blob/output/github-contribution-grid-snake.svg)
+  [!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/7imbitz)
+
+</p>
