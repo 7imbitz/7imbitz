@@ -1,6 +1,7 @@
 <div id="header" align="center">
   <img src="https://media2.giphy.com/media/gbmWwWm4sGMQvAYm1G/giphy.gif?cid=ecf05e47qjt7wweuot4xupyqfdnd2q6twd864n1thu9jkcn1&rid=giphy.gif&ct=g" width="100"/>
 </div>
+
 <div id="badges" align="center">
   <a href="https://blank.page/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
@@ -16,7 +17,7 @@
   <img src="https://komarev.com/ghpvc/?username=7imbitz&style=flat-square&color=blue" alt=""/>
 </div>
 
-<h1>
+<h1 align="center">
   Salam y'all ✌🏻, Hi there!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
