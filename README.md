@@ -25,7 +25,7 @@
 </h1>
 
 ### 👨🏻‍💻 About Me :
-#### I'm Adib Farhan Sayuti, the regular guy _*the pronunciation for the username was Jimbitz_
+#### I'm Adib Farhan, the regular guy _*the pronunciation for the username was Jimbitz_
 
 - :briefcase: Currently working at local Cyber Security company in :malaysia:
 - :raising_hand_man: Occasionally enthusiastic, easy to get distracted 😅
