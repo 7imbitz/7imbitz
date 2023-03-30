@@ -35,14 +35,13 @@
 ### 💻 Technologies and Tools :
 
 <p align="center">
+  
 <image src="https://img.shields.io/badge/Golang-439DC2?style=for-the-badge&logo=Go&logoColor=white"> <image src="https://img.shields.io/badge/Bash-4D4D4D?style=for-the-badge&logo=windows%20terminal&logoColor=white"> <image src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=black"> 
 
-  
 <image src="https://img.shields.io/badge/Macos-000000?style=for-the-badge&logo=apple&logoColor=white"> <image src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">  <image src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white">  <image src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"> <image src="https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white"> 
-
   
 <image src="https://img.shields.io/badge/sublime_text-%23575757.svg?&style=for-the-badge&logo=sublime-text&logoColor=important">  <image src="https://img.shields.io/badge/Code-4572C3?style=for-the-badge&logo=visual-studio-code&logoColor=white"> <image src="https://img.shields.io/badge/Obsidian-663CBA?style=for-the-badge&logo=obsidian&logoColor=white">
-  </p>
+</p>
 
 ### 📈 Statistics :
 
