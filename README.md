@@ -24,7 +24,7 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 
-### :man_technologist: About Me :
+### 👨🏻‍💻 About Me :
 #### I'm Adib Farhan Sayuti, the regular guy _*the pronunciation for the username was Jimbitz_
 
 - :briefcase: Currently working at local Cyber Security company in :malaysia:
@@ -44,17 +44,14 @@
 ### 📈 Statistics :
 
 [![Stats](https://github-readme-stats.vercel.app/api?username=7imbitz&theme=dracula)]
-
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=7imbitz&theme=dracula)](https://git.io/streak-stats)
-
-<p align="center">
   
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=7imbitz&theme=dracula&layout=compact&langs_count=10&hide=ruby,mustache,html,css,scss)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Trophy](https://github-profile-trophy.vercel.app/?username=7imbitz&theme=dracula&column=-1&rank=-?)](https://github.com/ryo-ma/github-profile-trophy)
 
-![Snake animation](https://github.com/7imbitz/7imbitz/blob/output/github-contribution-grid-snake.svg)
-  
+<p align="center">
+  ![Snake animation](https://github.com/7imbitz/7imbitz/blob/output/github-contribution-grid-snake.svg)
 </p>
   
   
